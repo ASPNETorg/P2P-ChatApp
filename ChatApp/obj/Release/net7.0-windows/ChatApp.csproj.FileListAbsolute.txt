@@ -1,0 +1,13 @@
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\ChatApp.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\ChatClientWindow.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\ActiveConversations.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\Conversation.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\InactiveConversations.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\NotificationBar.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\PendingRequestBar.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\View\UserControls\SidebarRequestView.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\App.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\ChatApp_MarkupCompile.cache
+C:\Users\PC\Source\Repos\testp2p\p2p-chat-application-main\ChatApp\obj\Release\net7.0-windows\ChatApp_MarkupCompile.lref
