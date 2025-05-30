@@ -19,7 +19,7 @@ namespace ChatApp.Model
         public void Save(ConversationModel conversationModel)
         {
             InitializeHost();
-            string directoryPath = Path.Combine(baseDirectory, $"{hostName}_{DateTime.Now}");
+            string directoryPath = Path.Combine(baseDirectory, $"{hostName}_{hostEndpoint}");
             Directory.CreateDirectory(directoryPath);
 
             JsonSerializerSettings settings = new JsonSerializerSettings
@@ -54,7 +54,7 @@ namespace ChatApp.Model
                 InitializeHost();
                 List<ConversationModel> conversationModels = new List<ConversationModel>();
 
-                string directoryPath = Path.Combine(baseDirectory, $"{hostName}_{DateTime.Now}");
+                string directoryPath = Path.Combine(baseDirectory, $"{hostName}_{hostEndpoint}");
 
                 if (Directory.Exists(directoryPath))
                 {
