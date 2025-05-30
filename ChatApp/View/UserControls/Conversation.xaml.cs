@@ -17,9 +17,6 @@ using ChatApp.ViewModel;
 
 namespace ChatApp.View.UserControls
 {
-    /// <summary>
-    /// Interaction logic for Conversation.xaml
-    /// </summary>
     public partial class Conversation : UserControl
     {
         public Conversation()
